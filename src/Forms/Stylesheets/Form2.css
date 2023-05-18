@@ -1,0 +1,231 @@
+.inpt-date {
+    font-size: 1.2rem ;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    color: #717171;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+    height: 6.5vh;
+    border: 1px solid #C6C6C6;
+    border-radius: 4px;
+}
+
+.div-date{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+    align-content: center;
+}
+
+.inpt-otp {
+    font-size: 1.2rem ;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    color: #717171;
+    text-align: center;
+
+    width: 100%;
+    height: 6.5vh;
+    border: 1px solid #C6C6C6;
+    border-radius: 4px;
+}
+
+.inpt-otp::placeholder {
+    text-align: center;
+}
+
+.inpt-otp::-moz-placeholder {
+    text-align: center;
+}
+
+.icon-date {
+    
+    height: 3.1vh;
+}
+
+
+.form-head-1 {
+    font-size: 2.1rem;
+    font-weight: 500;
+    line-height: 2.3rem;
+    letter-spacing: -1.125px;
+    color: #FFFFFF;
+    letter-spacing: -1px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif; 
+    padding-left: 2rem;
+    padding-right: 2rem;  
+}
+
+.form-head-2 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 2.3rem;
+    letter-spacing: -1.125px;
+    color: rgb(193, 22, 22);
+    letter-spacing: -1px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif; 
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+
+.inpt-select {
+    font-size: 1.2rem ;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    color: #717171;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 100%;
+    height: 6.5vh;
+    border: 1px solid #C6C6C6;
+    border-radius: 4px;
+}
+
+.inpt-file {
+    font-size: 1.2rem ;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    color: #717171;
+    padding-left: 0rem;
+    display: none;
+    width: 100%;
+    height: 6.5vh;
+    border: 1px solid #C6C6C6;
+    border-radius: 4px;
+}
+
+.div-file{
+    display: flex;
+    column-gap: 1rem;
+    width: 100%;
+    justify-content: space-between;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    align-items: center;
+    height: 6.5vh;
+    align-content: center;
+    background: #FFFFFF;
+    border: 1px solid #C6C6C6;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.txt-date {
+    padding-left: -1rem;
+    margin: 0;
+    font-size: 1.3rem ;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    color: #717171;
+    overflow: hidden;
+}
+
+.txt-dob{
+    padding-top: 2rem;
+}
+
+
+.icon-file {
+    width: 0.8rem;
+    position: relative;
+}
+
+.txt-btm {
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    padding-bottom: 0.3rem;
+    opacity: 0.6;
+    margin: 0;
+}
+
+.inpt-txtearea{
+    font-size: 1.1rem ;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    color: #717171;
+    padding-left: 1rem;
+    padding-top: 0.7rem;
+
+    width: 100%;
+    height: 6.5vh;
+    border: 1px solid #C6C6C6;
+    border-radius: 4px;
+}
+
+.inpt-2{
+    font-size: 1.2rem ;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    color: #717171;
+    padding-left: 1.2rem;
+
+    width: 100%;
+    height: 6.5vh;
+    border: 1px solid #C6C6C6;
+    border-radius: 4px;
+}
+
+.inpt-5{
+    font-size: 1.2rem ;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    color: #717171;
+    padding-left: 1.2rem;
+    padding-top: 1rem;
+
+    width: 100%;
+    height: 6.5vh;
+    border: 1px solid #C6C6C6;
+    border-radius: 4px;
+}
+
+.progress-bar {
+    display: flex;
+    column-gap: 0.27rem;
+    margin-bottom: 0.65rem;
+    margin-top: 0.5rem;
+}
+
+.bar {
+    width: 16%;
+}
+
+.bar-2 {
+    width: 13%;
+}
+
+.btn-back{
+    background-color:  #151417;
+    border: none;
+    margin-bottom: -0.4rem;
+}
+
+.btn-invisible {
+        background-color:  #151417;
+        border: none;
+        margin-bottom: -0.4rem;
+        opacity: 0;
+}
+
+.div-head {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
