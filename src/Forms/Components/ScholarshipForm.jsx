@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState , useEffect } from 'react';
 import '../Stylesheets/QuickForm.css';
-import '../Stylesheets/Form2.css';
+//import '../Stylesheets/Form2.css';
 import { auth } from '../config/firebase';
 import { RecaptchaVerifier , signInWithPhoneNumber } from "firebase/auth";
 import { useNavigate } from "react-router-dom";
